@@ -1,56 +1,20 @@
-<h1 align="center" style="color: #d67702;">I'm Dante de Lordran</h1>
-    <h3 align="center" style="color: #0099cc;">Java && Dart developer in process</h3>
+# 💫 About Me:
+I'm an Object Oriented Programming lover.<br>Java is my favorite language and i'm very interested in learning Go<br><br>🔭 I’m currently working on an exam and homeworks platform<br>👯 I’m looking to collaborate with Vue , Flutter & Angular developers<br>🌱 I’m currently learning Spring Security, GraphQL and Vue.js<br><br>Fullstack profile i'm working on to be :<br>-Spring Boot<br>-Spring Cloud<br>-Go<br>-Flutter<br>-Vue<br>-PostgreSql<br>-MongoDB<br>-Docker<br>-MS Azure
 
-<h3 align="center">About me:</h3>
-    <p align="center">
-    <ul align="center" style="text-decoration: none;">
-        <li>Im currently learning SpringBoot && Flutter</li>
-        <li>I love Object Oriented Programming</li>
-        <li>You can contact me at : <a href="https://dantelopez305@outlook.com"
-                target="_blank">dantelopez305@outlook.com</a></li>
-    </ul>
-    </p>
-    <p align="center">
-        <a href="https://twitter.com/dantedelordran" target="blank"><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-                alt="dantedelordran" height="30" width="40" /></a>
-    </p>
 
-<h3 align="center">Languages , tools && frameworks:</h3>
-    <p align="center">
-        <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" /> </a>  
-        <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"
-            height="40" /> </a>
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" /> </a>
-        <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
-                src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
-        </a> 
-        <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
-        </a> 
-         <a href="https://flutter.dev" target="_blank"
-            rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter"
-                width="40" height="40" /> </a> 
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-</a> 
-         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                alt="mysql" width="40" height="40" /> </a> 
-        <a href="https://nodejs.org" target="_blank"
-            rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                alt="nodejs" width="40" height="40" /> </a> 
-        <a href="https://postman.com" target="_blank"
-            rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"
-                width="40" height="40" /> </a> 
-         
-</p>
-<p align="center"><img align="center"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=dantedelordran&show_icons=true&locale=en&layout=compact"
-            alt="dantedelordran" /></p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dantelopezlugo/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/DanteDeLordran) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DanteDeLordran&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DanteDeLordran&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanteDeLordran&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DanteDeLordran&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=DanteDeLordran&icon=0&color=6)](https://visitcount.itsvg.in)
+
