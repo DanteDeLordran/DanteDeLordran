@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an Object Oriented Programming lover.<br>Java is my favorite language and i'm very interested in learning Go<br><br>🔭 I’m currently working on an exam and homeworks platform<br>👯 I’m looking to collaborate with Vue , Flutter & Angular developers<br>🌱 I’m currently learning Spring Security, GraphQL and Vue.js<br><br>Fullstack profile i'm working on to be :<br>-Spring Boot<br>-Spring Cloud<br>-Go<br>-Flutter<br>-Vue<br>-PostgreSql<br>-MongoDB<br>-Docker<br>-MS Azure
+I'm an Object Oriented Programming lover.<br>Java is my favorite language and i'm very interested in learning Go<br><br>🔭 I’m currently working on an exam and homeworks platform<br>👯 I’m looking to collaborate with NextJs , Flutter & Angular developers<br>🌱 I’m currently learning Spring Security, GraphQL and React.js<br><br>Fullstack profile i'm working on to be :<br>-Spring Boot<br>-Spring Cloud<br>-Go<br>-Flutter<br>-NextJs<br>-Angular<br>-PostgreSql<br>-MongoDB<br>-Docker<br>-MS Azure
 
 
 ## 🌐 Socials:
@@ -14,7 +14,4 @@ I'm an Object Oriented Programming lover.<br>Java is my favorite language and i'
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DanteDeLordran&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=DanteDeLordran&icon=0&color=6)](https://visitcount.itsvg.in)
 
