@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an Object Oriented Programming lover.<br>Java is my favorite language and i'm very interested in learning Go<br><br>🔭 I’m currently working on building an exam platform<br>👯 I’m looking to collaborate with NextJs , Flutter & Angular developers<br>🌱 I’m currently learning GraphQL and React.js<br><br>The stack profile i'm working on :<br>-Spring@<br>-Go<br>-Flutter@<br>-NextJs<br>-Angular@<br><br>Other tools I use :<br>-PostgreSql<br>-MongoDB<br>-Docker<br>-MS Azure
+I'm an Object Oriented Programming lover.<br>Java is my favorite language and i'm very interested in learning Go<br><br>🔭 I’m currently working on building an exam platform<br>👯 I’m looking to collaborate with NextJs , Flutter & Angular developers<br>🌱 I’m currently learning GraphQL and React.js<br><br>The stack profile i'm working on :<br>-Spring<br>-Go<br>-Flutter<br>-NextJs<br><br>Other tools I use :<br>-PostgreSql<br>-MongoDB<br>-Docker<br>-MS Azure
 
 
 ## 🌐 Socials:
