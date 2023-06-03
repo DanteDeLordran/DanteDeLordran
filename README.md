@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an Object Oriented Programming lover.<br>Java is my favorite language and i'm very interested in learning Go & Qwik<br><br>🔭 I’m currently working on building an exam platform<br>👯 I’m looking to collaborate with React developers<br>🌱 I’m currently learning Docker<br><br>The stack profile i'm working on :<br>-Spring<br>-React<br><br>Other tools I use :<br>-PostgreSql<br>-MongoDB<br>-Docker
+I'm an Object Oriented Programming lover.<br>Java is my favorite language and i'm very interested in learning Go & Python<br><br>🔭 I’m currently working on building an exam platform<br>👯 I’m looking to collaborate with React developers<br>🌱 I’m currently learning Docker<br><br>The stack profile i'm working on :<br>-Spring<br>-React<br><br>Other tools I use :<br>-PostgreSql<br>-MongoDB<br>-Docker
 
 
 ## 🌐 Socials:
