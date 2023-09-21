@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an Object Oriented Programming lover.<br>Java is my favorite language and i'm very interested in learning DL & ML<br><br>🔭 I’m currently working on building a full school management platform<br>👯 I’m looking to collaborate with Python developers<br>🌱 I’m currently learning Python<br><br>The stack profile i'm working on :<br>-Spring<br>-React<br><br>Other tools & frameworks I use :<br>-PostgreSql<br>-MongoDB<br>-Docker
+I'm an Object Oriented Programming lover.<br>Java is my favorite language and i'm very interested in learning DL & ML<br><br>🔭 I’m currently working on building a full school management platform<br>👯 I’m looking to collaborate with Python developers<br>🌱 I’m currently learning Python<br><br>The stack profile i'm working on :<br>-Spring<br>-Python<br>-Vue<br><br>Other tools I use :<br>-PostgreSql<br>-MongoDB<br>-Docker
 
 
 ## 🌐 Socials:
