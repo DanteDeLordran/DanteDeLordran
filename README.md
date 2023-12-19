@@ -1,5 +1,23 @@
 # 💫 About Me:
-I'm an Object Oriented Programming lover.<br>Java is by far my favorite language and i'm very interested in learning PyTorch<br><br>🔭 I’m currently working on building a full school management platform<br>👯 I’m looking to collaborate with Flutter developers<br>🌱 I’m currently learning Python<br><br>The stack profile i'm working on :<br>-Java<br>-Spring Boot<br>-Python<br>-Vue<br><br>Other tools I use :<br>-PostgreSQL<br>-MongoDB<br>-Docker<br><br>Hostings I use :<br>-Railway<br>-fl0
+I'm an Object Oriented Programming lover.
+<br>Java is by far my favorite language and i'm very interested in learning PyTorch
+<br><br>🔭 I’m currently working on building a full school management platform
+<br>👯 I’m looking to collaborate with Flutter developers
+<br>🌱 I’m currently learning Python
+<br><br>The stack profile i'm working on :
+
+Languages:
+<br>- Java
+<br>- Python
+
+Frameworks:
+<br>- Spring
+<br>- Vue
+
+Tools:
+<br>- Docker
+<br>- Postgres
+<br>- MongoDB
 
 
 ## 🌐 Socials:
