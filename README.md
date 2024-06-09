@@ -1,7 +1,7 @@
 # <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height=50 /> About Me:
 <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height=30/>Java is my main language alongside the Spring ecosystem
 <br>🔭 I’m currently working on building a full school management platform
-<br>🌱 I’m currently learning Kubernetes
+<br>🌱 I’m currently studying linear algebra and calculus for Machine Learning
 <br><br>
 ## My current stack :
 
@@ -19,7 +19,7 @@
 
 ## Other technologies I am interested in :
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height=80/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height=80 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height=80 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height=80/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height=80 />
           
 
 ## 🌐 Socials:
