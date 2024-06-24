@@ -1,6 +1,6 @@
 # <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height=50 /> About Me:
 <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height=30/>Java is my main language alongside the Spring ecosystem
-<br>🔭 I’m currently working on building a full school management platform & a computational vision model
+<br>🔭 I’m currently working on building a computational vision model
 <br>🌱 I’m currently studying optimization heuristics for Machine Learning
 <br><br>
 ## My current stack :
