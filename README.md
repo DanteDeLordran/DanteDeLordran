@@ -50,19 +50,7 @@
 ---
 
 <div align="center">
-    <h2>🌐 Connect with Me</h2>
-    <a href="https://linkedin.com/in/dantelopezlugo">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://twitter.com/DanteDeLordran">
-        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
-</div>
-
----
-
-<div align="center">
-    <h2>📊 GitHub Stats</h2>
+    <h2>📊 My most used stack</h2>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanteDeLordran&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=donut-vertical" alt="Top Languages"/>
 </div>
 
