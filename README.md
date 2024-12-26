@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-    <h2>💻 Tech Stack</h2>
+    <h2>💻 My personal stack</h2>
     <table>
         <tr>
             <td align="center" width="100">Languages</td>
@@ -21,10 +21,15 @@
             </td>
         </tr>
         <tr>
-            <td align="center" width="100">Frameworks & Tools</td>
+            <td align="center" width="100">Frameworks</td>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" />&nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="60" />&nbsp;
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="100">Tools</td>
+            <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="70" />&nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="60"/>&nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height=65 />
