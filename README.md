@@ -1,9 +1,8 @@
 <div align="center">
-    <h1><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/> About Me</h1>
+    <h1><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/> </h1>
     <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25"/> Java is my main language alongside the Spring ecosystem.
         <br>🔭 Currently working on remaking and enhancing a full school management system.
-        <br>🌱 Studying optimization heuristics for Machine Learning.
+        <br>🌱 Studying statistics and optimization heuristics for Machine Learning.
     </p>
 </div>
 
