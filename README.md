@@ -1,5 +1,4 @@
 <div align="center">
-    <h1><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/> </h1>
     <p>
         <br>🔭 Currently working on remaking and enhancing a full school management system.
         <br>🌱 Studying statistics and optimization heuristics for Machine Learning.
@@ -9,13 +8,12 @@
 ---
 
 <div align="center">
-    <h2>💻 My personal stack</h2>
+    <h2><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/> My personal stack</h2>
     <table>
         <tr>
             <td align="center" width="100">Languages</td>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" />&nbsp;
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="55" />&nbsp;
             </td>
         </tr>
         <tr>
@@ -25,7 +23,7 @@
             </td>
         </tr>
         <tr>
-            <td align="center" width="100">Tools</td>
+            <td align="center" width="100">Cloud Tools</td>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="70" />&nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="60"/>&nbsp;
@@ -45,7 +43,6 @@
 ---
 
 <div align="center">
-    <h2>📊 My most used stack</h2>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanteDeLordran&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=donut-vertical" alt="Top Languages"/>
 </div>
 
