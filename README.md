@@ -48,6 +48,6 @@
 ---
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanteDeLordran&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=donut-vertical" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanteDeLordran&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=donut-vertical" alt="Top Languages"/>
 </div>
 
