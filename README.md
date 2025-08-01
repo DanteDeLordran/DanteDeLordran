@@ -16,7 +16,7 @@
             <td align="center" width="100">Languages</td>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />
-                <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="60" />-->
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="60" />
             </td>
         </tr>
         <tr>
@@ -47,7 +47,8 @@
         <tr>
             <td align="center" width="100">Observability</td>
             <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jaegertracing/jaegertracing-original.svg" width="65"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="60" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="60" />
             </td>
         </tr>-->
         <tr>
