@@ -16,7 +16,7 @@
             <td align="center" width="100">Languages</td>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="60" />
+                <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="60" />-->
             </td>
         </tr>
         <tr>
