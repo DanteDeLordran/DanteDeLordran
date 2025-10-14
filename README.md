@@ -1,9 +1,9 @@
 
 <div align="center">
     <p>
-        <br> 🔧 Working as a Software Configuration Manager, with a focus on transitioning to a Site Reliability Engineer role.
+        <br> 🔧 Working as a Site Reliability Engineer.
         <br> 📊 Actively studying statistics and optimization heuristics to support Machine Learning initiatives.  
-        <br> 🚀 Long-term goal: becoming a Machine Learning Engineer / MLOps specialist.
+        <br> 🚀 Long-term goal: becoming a Machine Learning Engineer & backend specialist.
     </p>
 </div>
 
