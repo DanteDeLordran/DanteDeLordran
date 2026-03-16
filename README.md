@@ -10,31 +10,68 @@
 ---
 
 <div align="center">
-    <h2>My personal stack</h2>
-    <table>
-        <tr>
-            <td align="center" width="100">Languages</td>
-            <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="60" />
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="100">Frameworks</td>
-            <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="60"/>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="60" />
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="100">Infra & Platform</td>
-            <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="80"/>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="60"/>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width=65 />
-            </td>
-        </tr>
-    </table>
+My projects:
+</div>
+<ul>
+<li><a href=https://github.com/DanteDeLordran/maniplacer target="_blank">maniplacer - A local first kubernetes manifest generator CLI</a></li>
+<li><a href=https://github.com/AndresSM415/pdfstein target="_blank">pdfstein - local and private pdf converter</a></li>
+</ul>
+
+---
+
+<div align="center">
+  <h2>My personal stack</h2>
+  <table>
+    <tr>
+      <td align="center" width="160"><b>ML & Optimization</b></td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="60"/>
+      Polars
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
+          width="60"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="160"><b>MLOps & Orchestration</b></td>
+      <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="60"/>
+         MLfow
+		 Databricks
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="160"><b>Cloud & Platform</b></td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+          width="70"
+        />
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"
+          width="60"
+        />
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"
+          width="60"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="160"><b>Observability & Monitoring</b></td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original.svg"
+          width="60"
+        />
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg"
+          width="60"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
