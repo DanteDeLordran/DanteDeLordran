@@ -1,81 +1,50 @@
-
 <div align="center">
-    <p>
-        <br> 🔧 Working as a Site Reliability Engineer.
-        <br> 📊 Actively studying statistics and optimization heuristics to support Machine Learning initiatives.  
-        <br> 🚀 Long-term goal: becoming a Machine Learning Engineer & backend specialist.
-    </p>
+
+# SRE → ML Research Engineer
+
+Building at the intersection of reliable systems and machine intelligence.<br>Systems thinking applied to ML infrastructure — from training runs to production pipelines
+
 </div>
 
 ---
 
 <div align="center">
-My projects:
-</div>
-<ul>
-<li><a href=https://github.com/DanteDeLordran/maniplacer target="_blank">maniplacer - A local first kubernetes manifest generator CLI</a></li>
-<li><a href=https://github.com/AndresSM415/pdfstein target="_blank">pdfstein - local and private pdf converter</a></li>
-</ul>
 
----
+`Python · Rust` &nbsp; `GCP · K8s · Docker` &nbsp; `PyTorch · Transformers` &nbsp; `MLflow · Databricks` &nbsp; `→ DeepMind RE (2028)`
 
-<div align="center">
-  <h2>My personal stack</h2>
-  <table>
-    <tr>
-      <td align="center" width="160"><b>ML & Optimization</b></td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="60"/>
-      Polars
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
-          width="60"
-        />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="160"><b>MLOps & Orchestration</b></td>
-      <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="60"/>
-         MLfow
-		 Databricks
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="160"><b>Cloud & Platform</b></td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-          width="70"
-        />
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"
-          width="60"
-        />
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"
-          width="60"
-        />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="160"><b>Observability & Monitoring</b></td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original.svg"
-          width="60"
-        />
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg"
-          width="60"
-        />
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
 
+<sub>CURRENTLY</sub>
+
+| | |
+|---|---|
+| 📐 | **Math for ML** — Deisenroth, every exercise by hand |
+| 🧩 | **Blind 75** → LC Hard for Google-tier interviews |
+| ✍️ | **Writing publicly** — teaching forces understanding |
+
+---
+
+<sub>PROJECTS</sub>
+
+| | | |
+|---|---|---|
+| [`maniplacer`](https://github.com/DanteDeLordran/maniplacer) | local-first Kubernetes manifest generator CLI | `live` |
+
+---
+
+<sub>STACK</sub>
+
+| | |
+|---|---|
+| **core ml** | `NumPy` `PyTorch` `scikit-learn` `Polars` `XGBoost` `Optuna` |
+| **llms & agents** | `Transformers` `LoRA / QLoRA` `Qdrant` `Pydantic AI` |
+| **mlops** | `GitLab CI` `MLflow` `Databricks` `Docker` `Kubernetes` `GCP` |
+| **observability** | `Alloy` `LGTM stack` |
+
+---
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanteDeLordran&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=donut-vertical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanteDeLordran&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=donut-vertical" alt="Top Languages"/>
 </div>
