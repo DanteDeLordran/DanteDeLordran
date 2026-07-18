@@ -3,7 +3,7 @@
 # SRE → ML / AI Engineer → ML Research Engineer
 
 Production systems experience applied to reliable AI software.<br>
-Personal, learning, and open-source work by Dante de Lordran (Dante López Lugo).
+Personal, learning, and open-source work.
 
 </div>
 
