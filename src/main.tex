@@ -1,0 +1,71 @@
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{fontawesome5}
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+% Custom font
+\usepackage[default]{lato}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\bfseries\raggedright\large
+}{}{0em}{}[\color{black}\titlerule\vspace{-5pt}]
+
+% Ensure that the generated PDF is machine-readable and ATS-parseable.
+\pdfgentounicode=1
+
+%-------------------------%
+% Custom commands
+\begin{document}
+\include{custom-commands}
+
+%-------------------------------------------%
+%%%%%%  RESUME STARTS HERE  %%%%%
+
+%----------HEADING----------%
+\input{src/components/heading}
+
+%----------SUMMARY----------%
+\input{src/components/summary}
+
+%-----------SKILLS-----------%
+\input{src/components/skills.tex}
+
+%-----------EXPERIENCE-----------%
+\input{src/components/experience}
+
+%-----------PROJECTS-----------%
+\input{src/components/projects}
+
+%-----------EDUCATION-----------%
+\input{src/components/education.tex}
+
+%-----------CERTIFICATIONS-----------%
+\input{src/components/certifications}
+
+%-------------------------------------------%
+\end{document}
