@@ -1,14 +1,21 @@
+%-----------PROJECTS-----------%
+%
+% HIGHEST-LEVERAGE GAP: no project here shows a trained model, an evaluation, or a
+% reported metric -- the exact evidence a research-engineer screen looks for.
+% Add a third entry (paper reproduction, or a transformer from scratch) with real
+% numbers. That entry is what earns PyTorch onto the Skills line honestly.
+%
 \section{Projects}
     \resumeSubHeadingListStart
       \resumeProjectHeading
         {\textbf{\href{https://github.com/DanteDeLordran/sorry-not-hired}{SorryNotHired}} $|$ \emph{Python, FastAPI, Pydantic AI, React}}{2026}
         \resumeItemListStart
-          \resumeItem{Built an applied-LLM prototype that validates PDF resumes, extracts Markdown, and returns typed feedback through an OpenAI-compatible model API.}
-          \resumeItem{Implemented upload safeguards, model timeouts, health endpoints, and a React client; configured Nginx, Docker Compose, and Ollama for self-hosted inference.}
+          \resumeItem{Built an applied-LLM prototype that validates PDF resumes, extracts Markdown, and returns typed feedback, using \textbf{Pydantic AI} schemas to constrain and validate model output against an OpenAI-compatible API.}
+          \resumeItem{Evaluated local models under \textbf{Ollama} for output quality, latency, and token cost; hardened the serving path with model timeouts, upload safeguards, and health endpoints behind Nginx and Docker Compose.}
         \resumeItemListEnd
       \resumeProjectHeading
         {\textbf{\href{https://github.com/DanteDeLordran/maniplacer}{Maniplacer}} $|$ \emph{Go, Kubernetes}}{2025}
         \resumeItemListStart
-          \resumeItem{Developed a local-first CLI for generating repeatable Kubernetes deployment manifests with fewer manual YAML edits.}
+          \resumeItem{Developed a local-first CLI for generating repeatable Kubernetes deployment manifests, replacing hand-edited YAML and keeping services consistent across environments.}
         \resumeItemListEnd
     \resumeSubHeadingListEnd
