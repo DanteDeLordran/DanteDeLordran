@@ -9,6 +9,10 @@ Personal, learning, and open-source work.
 
 ---
 
+## Interests
+
+Deep Learning · Systems Engineering · Quantum Computing
+
 ## Direction
 
 I currently work in site reliability engineering, where I have built experience in Kubernetes, cloud infrastructure, CI/CD, observability, and incident response. I do not intend to remain in SRE; I am using that production foundation to transition into ML and AI engineering, with ML research engineering as the long-term goal.
@@ -33,16 +37,16 @@ I am also preparing to apply for a two-year master's program in machine learning
 
 | Stage | Areas |
 | --- | --- |
-| **Production foundation** | Python, TypeScript, GCP, GKE, Kubernetes, Docker, Azure DevOps, Datadog, CI/CD, system design, mentoring |
-| **Applied AI and applications** | Pydantic AI, FastAPI, React, TanStack Start, Ollama |
-| **Building now** | NumPy, Polars, scikit-learn, PyTorch, XGBoost, Optuna, Transformers, Tokenizers, LoRA/QLoRA, Qdrant, FastMCP, MLflow, Databricks |
-| **Next** | MLX, CUDA/Rust experimentation, deeper model evaluation, paper reproduction, and distributed training |
+| **Languages** | Python, Mojo |
+| **ML & Optimization** | NumPy, Polars, scikit-learn, Marimo, XGBoost, Optuna |
+| **LLMs & Agentic AI** | Qdrant, Pydantic AI, FastMCP |
+| **MLOps & Platform** | Databricks, MLflow, Docker, Kubernetes, AWS |
 
 ## Open-Source Contribution Queue
 
 I am studying these projects as potential contribution targets; this list does not claim existing upstream contributions:
 
-`eza` · `bat` · `OpenFang` · `MLflow` · `Optuna` · `OpenCode` · `Dolt` · `Pydantic AI`
+`openfang` · `MLflow` · `Optuna` · `Pydantic AI` · `Unsloth AI` · `MLX` · `Turborepo` · `Firecracker`
 
 ## Links
 
