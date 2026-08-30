@@ -17,8 +17,6 @@ Deep Learning · Systems Engineering · Quantum Computing
 
 I currently work in site reliability engineering, where I have built experience in Kubernetes, cloud infrastructure, CI/CD, observability, and incident response. I do not intend to remain in SRE; I am using that production foundation to transition into ML and AI engineering, with ML research engineering as the long-term goal.
 
-I am also preparing to apply for a two-year master's program in machine learning and optimization with a target start in 2027. This is a planned next step, not a claim of admission.
-
 ## Current Work
 
 - Building applied-LLM and full-stack systems with Python, Pydantic AI, FastAPI, and React; previous application work includes TanStack Start.
