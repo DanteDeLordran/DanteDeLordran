@@ -1,52 +1,74 @@
 <div align="center">
 
-# SRE → ML / AI Engineer → ML Research Engineer
+# Dante de Lordran
 
-Production systems experience applied to reliable AI software.<br>
-Personal, learning, and open-source work.
+**Software Engineer · Site Reliability Engineer · AI/ML Engineer in progress**<br>
+Building reliable production systems, applied AI, and open-source projects.
+
+[Website](https://dantedelordran.com) · [GitHub](https://github.com/DanteDeLordran) · [LinkedIn](https://www.linkedin.com/in/dantelopezlugo/)
 
 </div>
 
 ---
 
-## Interests
+## About
 
-Deep Learning · Systems Engineering · Quantum Computing
+I’m Dante López Lugo, a software engineer based in Nuevo León, Mexico. At Softtek, I work across site reliability engineering and software configuration management, with experience in Kubernetes, cloud infrastructure, CI/CD, observability, and incident response.
 
-## Direction
+I’ve supported a production RAG service using Gemini on Vertex AI and GKE, and helped automate internal ticket and incident-report workflows with agents. I’m building on that production foundation as I move toward ML engineering and, over time, ML research engineering.
 
-I currently work in site reliability engineering, where I have built experience in Kubernetes, cloud infrastructure, CI/CD, observability, and incident response. I do not intend to remain in SRE; I am using that production foundation to transition into ML and AI engineering, with ML research engineering as the long-term goal.
+My interests include deep learning, quantum computing, algorithms, competitive programming, Python, and Rust.
 
-## Current Work
+## Current projects
 
-- Building applied-LLM and full-stack systems with Python, Pydantic AI, FastAPI, and React; previous application work includes TanStack Start.
-- Strengthening core ML/DL, optimization, evaluation, and research-engineering fundamentals.
-- Practicing DSA in Python through documented patterns, invariants, and complexity analysis.
-- Publishing projects and field notes as evidence of progress.
-
-## Projects
-
-| Project | Status | Focus |
+| Project | What it is | Focus |
 | --- | --- | --- |
-| [`sorry-not-hired`](https://github.com/DanteDeLordran/sorry-not-hired) | prototype | PDF processing, Pydantic AI, FastAPI, React, local LLM inference |
-| [`maniplacer`](https://github.com/DanteDeLordran/maniplacer) | active | Local-first Kubernetes manifest generation in Go |
+| [SorryNotHired](https://github.com/DanteDeLordran/sorry-not-hired) | Applied-LLM prototype for resume feedback | Python, FastAPI, Pydantic AI, React, local model evaluation |
+| [Maniplacer](https://github.com/DanteDeLordran/maniplacer) | Local-first CLI for generating Kubernetes manifests | Go, Kubernetes |
 
-## Capability Map
+## Ventures
 
-| Stage | Areas |
-| --- | --- |
-| **Languages** | Python, Mojo |
-| **ML & Optimization** | NumPy, Polars, scikit-learn, Marimo, XGBoost, Optuna |
-| **LLMs & Agentic AI** | Qdrant, Pydantic AI, FastMCP |
-| **MLOps & Platform** | Databricks, MLflow, Docker, Kubernetes, AWS |
+- [Dante de Lordran](https://dantedelordran.com) — research, writing, and open source.
+- [Darsaras](https://darsaras.com) — product-oriented startup; launch is a 2027 goal.
+- **Ghouldesk** — launch is a 2027 goal.
+- **Euphorika** — launch is a 2027 goal.
 
-## Open-Source Contribution Queue
+## 2027 goals
 
-I am studying these projects as potential contribution targets; this list does not claim existing upstream contributions:
+- Reach my target IELTS result.
+- Launch Darsaras, Ghouldesk, and Euphorika.
+- Find a role paying MXN 50,000.
+- Make meaningful open-source contributions.
 
-`openfang` · `MLflow` · `Optuna` · `Pydantic AI` · `Unsloth AI` · `MLX` · `Turborepo` · `Firecracker`
+## Skills and learning roadmap
 
-## Links
+### Experience reflected in my CV
 
-- Portfolio: [dantedelordran.com](https://dantedelordran.com)
-- LinkedIn: [dantelopezlugo](https://www.linkedin.com/in/dantelopezlugo/)
+Python, FastAPI, TypeScript, Go, Vertex AI (Gemini), Pydantic AI, LangChain, Ollama, Qdrant, FastMCP, NumPy, Polars, scikit-learn, Optuna, GCP, GKE, Kubernetes, Docker, ArgoCD, Azure DevOps, MLflow, Databricks, Datadog, and OpenTelemetry.
+
+### Areas I’m developing toward
+
+- **ML and optimization:** PyTorch, XGBoost, Unsloth AI, MLX, CUDA-oxide.
+- **LLMs and agent systems:** tokenizers, LoRA/QLoRA.
+- **MLOps and platform:** deeper work with Databricks, MLflow, Docker, Kubernetes, and AWS.
+
+These are learning goals and areas of interest, not a claim of professional experience with every tool.
+
+## Open-source contribution targets
+
+I’m interested in contributing to [vLLM](https://github.com/vllm-project/vllm), [Unsloth](https://github.com/unslothai/unsloth), [Codex CLI](https://github.com/openai/codex), Hermes Agent, and DeepInfer. This is my target list; it doesn’t imply existing upstream contributions.
+
+## Writing ideas
+
+- Build attention from scratch in pure Mojo and benchmark it against a PyTorch implementation.
+- Build TinyLoRA from scratch in pure Mojo and benchmark it against a PyTorch implementation.
+- Build Memory Mosaic from scratch in pure Mojo and benchmark it against a PyTorch implementation.
+- Explore how loops and graphs could replace prompting in real startup codebases.
+
+## Research question
+
+Can we keep more branching continuations usable by selectively materializing recurrent and unfinished memory state, while preserving exact replay and bounding the cost of resuming branches?
+
+## Where I’d like to work
+
+OpenAI · Anthropic · xAI · Cursor
