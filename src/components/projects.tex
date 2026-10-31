@@ -1,21 +1,26 @@
 %-----------PROJECTS-----------%
 %
-% HIGHEST-LEVERAGE GAP: no project here shows a trained model, an evaluation, or a
-% reported metric -- the exact evidence a research-engineer screen looks for.
-% Add a third entry (paper reproduction, or a transformer from scratch) with real
-% numbers. That entry is what earns PyTorch onto the Skills line honestly.
+% HIGHEST-LEVERAGE GAP: no project here shows a model or retrieval pipeline you built and
+% evaluated yourself with reported metrics -- the evidence an applied AI screen looks for.
+% Add an entry with real numbers. That entry is what earns PyTorch onto the Skills line
+% honestly; until then it stays in the plate project's stack only.
 %
 \section{Projects}
     \resumeSubHeadingListStart
       \resumeProjectHeading
-        {\textbf{\href{https://github.com/DanteDeLordran/sorry-not-hired}{SorryNotHired}} $|$ \emph{Python, FastAPI, Pydantic AI, React}}{2026}
+        {\textbf{\href{https://github.com/DanteDeLordran/sorry-not-hired}{SorryNotHired}} $|$ \emph{Python, FastAPI, React, OpenAI-compatible APIs}}{2026}
         \resumeItemListStart
-          \resumeItem{Built an applied-LLM prototype that validates PDF resumes, extracts Markdown, and returns typed feedback, using \textbf{Pydantic AI} schemas to constrain and validate model output against an OpenAI-compatible API.}
-          \resumeItem{Evaluated local models under \textbf{Ollama} for output quality, latency, and token cost; hardened the serving path with model timeouts, upload safeguards, and health endpoints behind Nginx and Docker Compose.}
+          \resumeItem{Built a full-stack LLM app that extracts Markdown from PDF resumes and streams satirical critiques, prototyped on local \textbf{Ollama} models and moved to the \textbf{DeepSeek API} for production, with fallback messages for provider failures.}
+          \resumeItem{Hardened the request path with sandboxed PDF parsing under memory and CPU limits, upload and page limits, a non-resume filter, and model timeouts; wrote a benchmark comparing models on time-to-first-text and total latency.}
         \resumeItemListEnd
       \resumeProjectHeading
-        {\textbf{\href{https://github.com/DanteDeLordran/maniplacer}{Maniplacer}} $|$ \emph{Go, Kubernetes}}{2025}
+        {\textbf{Vehicle Plate Identification} $|$ \emph{Python, PyTorch, YOLOv5, Raspberry Pi}}{2024}
         \resumeItemListStart
-          \resumeItem{Developed a local-first CLI for generating repeatable Kubernetes deployment manifests, replacing hand-edited YAML and keeping services consistent across environments.}
+          \resumeItem{Directed a university team building a computer vision plate identifier designed to run on a \textbf{Raspberry Pi} and integrate with the university's plate registry database; contributed to the implementation.}
+        \resumeItemListEnd
+      \resumeProjectHeading
+        {\textbf{\href{https://github.com/DanteDeLordran/maniplacer}{Maniplacer}} $|$ \emph{Go, Cobra, client-go, Kubernetes}}{2025 -- Present}
+        \resumeItemListStart
+          \resumeItem{Built a CLI that replaces hand-edited Kubernetes YAML with validated manifests rendered from templates and config files, with dry runs and \textbf{server-side apply} via client-go; ships cross-platform, checksum-verified releases.}
         \resumeItemListEnd
     \resumeSubHeadingListEnd
